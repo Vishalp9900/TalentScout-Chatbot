@@ -1,0 +1,50 @@
+[
+    {
+        "timestamp": "2026-02-27 23:40:34.579041",
+        "candidate_data": {
+            "Full Name": "Vishal",
+            "Email": "vp938029@gmail.com",
+            "Phone": "8217565099",
+            "Experience": "0",
+            "Desired Position": "AIML intern",
+            "Location": "Benglore",
+            "Tech Stack": "python,html,sql"
+        }
+    },
+    {
+        "timestamp": "2026-02-27 23:48:48.970485",
+        "candidate_data": {
+            "Full Name": "vishal",
+            "Email": "vp938029@gmail.com",
+            "Phone": "8217565099",
+            "Experience": "1",
+            "Desired Position": "AIML intern",
+            "Location": "Benglore",
+            "Tech Stack": "python,html"
+        }
+    },
+    {
+        "timestamp": "2026-02-27 23:56:08.514655",
+        "candidate_data": {
+            "Full Name": "Vishal",
+            "Email": "vp938029@gmail.com",
+            "Phone": "8217565099",
+            "Experience": "1",
+            "Desired Position": "AIML intern",
+            "Location": "Benglore",
+            "Tech Stack": "python,html,css"
+        }
+    },
+    {
+        "timestamp": "2026-02-28 00:53:33.659224",
+        "candidate_data": {
+            "Full Name": "Vishal",
+            "Email": "vp938029@gmail.com",
+            "Phone": "8217565099",
+            "Experience": "1",
+            "Desired Position": "AIML intern",
+            "Location": "Benglore",
+            "Tech Stack": "python,html,css"
+        }
+    }
+]
